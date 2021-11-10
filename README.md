@@ -1,16 +1,14 @@
-### Hi there 👋
+# I am glad to welcome you to my profile 👋
 
-<!--
-**SergeiBesedin/SergeiBesedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sergei and I am a beginner front-end developer
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML-yellow?style=plastic&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-green?style=plastic&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=plastic&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=plastic&logo=Redux)
+![Git](https://img.shields.io/badge/-Git-important?style=plastic&logo=Git)
+
+
