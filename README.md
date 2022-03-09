@@ -1,7 +1,3 @@
-# I am glad to welcome you to my profile 👋
-
-My name is Sergei and I am a beginner front-end developer
-
 ### Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-yellow?style=plastic&logo=HTML5)
