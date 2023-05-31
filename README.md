@@ -2,4 +2,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergeiBesedin&theme=solarized_dark)
 
-[![codewars](https://www.codewars.com/users/Sergey%20Besedin/badges/large)](https://www.codewars.com/users/Sergey%20Besedin)
+[![codewars](https://www.codewars.com/users/Sergey%20Besedin/badges/small)](https://www.codewars.com/users/Sergey%20Besedin)
