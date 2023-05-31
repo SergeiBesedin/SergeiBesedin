@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Sergei! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <h2>FrontEnd developer from Russia</h2>
+  <h3>FrontEnd developer from Russia</h3>
 </div>
 
 <div id="socials" align="center">
