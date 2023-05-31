@@ -12,10 +12,10 @@
 ## ⚡ 𝙼𝚢 stat
 <div id="stat" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiBesedin&layout=compact)](https://github.com/SergeiBesedin/github-readme-stats)
-  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeiBesedin&theme=aura)
-  
-[![codewars](https://www.codewars.com/users/Sergey%20Besedin/badges/small)](https://www.codewars.com/users/Sergey%20Besedin)
+##  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiBesedin&layout=compact)](https://github.com/SergeiBesedin/github-readme-stats)
+##
+[![codewars](https://www.codewars.com/users/Sergey%20Besedin/badges/large)](https://www.codewars.com/users/Sergey%20Besedin)
 </div>
   
