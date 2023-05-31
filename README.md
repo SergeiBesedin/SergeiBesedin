@@ -9,13 +9,22 @@
   </a>
 </div>
 
-## ⚡ 𝙼𝚢 stat
-<div id="stat" align="center">
 
+<div id="stat" align="left">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+stat)](https://git.io/typing-svg)
+<div id="stat" align="left">   
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeiBesedin&theme=aura)
-##  
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Top+langs)](https://git.io/typing-svg)
+<div id="stat" align="left">  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiBesedin&layout=compact)](https://github.com/SergeiBesedin/github-readme-stats)
-##
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Codewars)](https://git.io/typing-svg)
+<div id="stat" align="left">  
+  
 [![codewars](https://www.codewars.com/users/Sergey%20Besedin/badges/large)](https://www.codewars.com/users/Sergey%20Besedin)
 </div>
   
